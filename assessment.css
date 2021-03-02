@@ -1,0 +1,22 @@
+body{
+    background-color: cornflowerblue;
+    color: whitesmoke;
+    width: 500px;
+    margin-left: auto;
+    margin-right:auto;
+}
+button{
+    color: whitesmoke;
+    padding: 5px 20px;
+    background-color: #337ab7;
+    border-style: none;
+}
+input{
+    height: 20px;
+}
+p{
+    color: yellow;
+}
+h1{
+    color: red;
+}
